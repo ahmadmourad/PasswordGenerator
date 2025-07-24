@@ -55,12 +55,8 @@ hr {
 
 }
 
-.passwords-section {
-    margin: 35px 0 0 0;
-}
-
 .password {
-    margin: 0 24px 0 0;
+    margin: 35px 24px 0 0;
     width: 215px;
     height: 40px;
     background: #273549;

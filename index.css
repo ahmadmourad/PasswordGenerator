@@ -52,3 +52,10 @@ body {
     margin: 51px 0 0 0;
     padding: 9px 17px;
 }
+
+hr {
+    width: 450px;
+    margin: 35px 0 0 0;
+    border: 1px solid #2F3E53;
+
+}

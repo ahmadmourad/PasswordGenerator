@@ -1,4 +1,19 @@
 body {
     margin: 0;
     background: #1F2937 ;
+    font-family: 
+}
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    color: white;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -2.5%;
+    width: 350px;
+}
+
+.green {
+    color: #55F991;
 }

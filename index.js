@@ -16,3 +16,8 @@ function generatePasswords() {
     pass1El.textContent = password1
     pass2El.textContent = password2
 }
+
+function copyOnClick(pass){
+    navigator.clipboard.writeText(pass.textContent);
+    alert("Password copied successfully " + pass.textContent)
+}

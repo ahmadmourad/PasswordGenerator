@@ -7,7 +7,7 @@ let pass2El = document.getElementById("password2-el")
 function generatePasswords() {
     let password1 = ""
     let password2 = ""
-    for (let passwordSize = 0; passwordSize <= 15; passwordSize++) {
+    for (let passwordSize = 0; passwordSize < 15; passwordSize++) {
         let randomIndex1 = Math.floor(Math.random() * characters.length)
         let randomIndex2 = Math.floor(Math.random() * characters.length)
         password1 += characters[randomIndex1]

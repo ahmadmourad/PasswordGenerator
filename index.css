@@ -4,16 +4,40 @@ body {
     font-family: 
 }
 
-h1 {
+.app-header {
     font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 800;
     color: white;
     font-size: 40px;
     line-height: 40px;
     letter-spacing: -2.5%;
     width: 350px;
+    height: 80px;
+    margin: 0 0 10px 0;
 }
 
 .green {
     color: #55F991;
 }
+
+.app-section{
+    margin: 115px auto 0 55px;
+}
+
+.app-header-two {
+    color: #D5D4D8;
+    width: 372px;
+    height: 28px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-optical-sizing: auto;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
+
+
+
+

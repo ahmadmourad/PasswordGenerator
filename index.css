@@ -39,5 +39,16 @@ body {
 }
 
 
-
-
+.app-button{
+    background: #10B981 ;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-weight:500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    border: none;
+    border-radius: 6px;
+    margin: 51px 0 0 0;
+    padding: 9px 17px;
+}
